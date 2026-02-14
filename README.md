@@ -23,12 +23,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednajib&theme=shadow_blue" alt="GitHub Streak" />
 </p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmednajib&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmednajib&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmednajib&icon=0&color=1)](https://visitcount.itsvg.in)
