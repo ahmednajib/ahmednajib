@@ -38,15 +38,16 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednajib&theme=flat&column=7" alt="ahmednajib" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmednajib&theme=dracula&no-frame=false" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmednajib&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednajib&show_icons=true&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmednajib&show_icons=true&theme=algolia" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednajib&show_icons=true&layout=compact&theme=algolia" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednajib&theme=algolia" alt="ahmednajib" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednajib&theme=algolia" alt="Streak" />
 </p>
