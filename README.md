@@ -10,8 +10,6 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ahmednajib&show_icons=true&theme=shadow_blue" alt="Ahmed's Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednajib&theme=shadow_blue" alt="GitHub Streak" />
 </p>
 ### 🔝 Top Contributed Repo
