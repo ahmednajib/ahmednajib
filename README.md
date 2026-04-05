@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education: 4th-year Computer Engineering student at Karabük University<br>💻 Focus: C++, C# .NET, Databases, and Data Structures<br>🌱 Currently Learning: Restfull APIs and Frontend Frameworks (React/Angular)<br>🔭 Working On: Building robust Bank Management system and Graduation Project<br>📫 Reach me at: ahmdaldyny3@gmail.com
+🎓 Education: 4th-year Computer Engineering student at Karabük University<br>💻 Focus: C++, C# .NET, Restfull APIs, Databases, and Data Structures<br>🌱 Currently Learning: ASP.Net Core and Frontend Frameworks (React/Angular)<br>🔭 Working On: Building robust Bank Management system and Graduation Project<br>📫 Reach me at: ahmdaldyny3@gmail.com
 
 
 ## 🌐 Socials:
