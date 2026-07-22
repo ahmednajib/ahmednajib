@@ -1,13 +1,13 @@
 # 💫 About Me
 
-🎓 **Education:** B.Sc. in Computer Engineering, Karabük University (Graduated: June 2026 | GPA: 3.66/4.00)
-💻 **Focus:** C#, .NET, ASP.NET Core Web APIs, SQL Server, EF Core, RESTful APIs, and Clean/n-Tier Architecture
-🌱 **Currently Learning:** Mastering full-stack development by combining ASP.NET Core with React/Next.js and building robust API security protocols
-🔭 **Working On:** Expanding my expertise in web applications, real-time communications with SignalR, and CQRS patterns with MediatR, alongside migrating a media platform to a modern .NET Core and React architecture
-🚀 **Experience:** Building high-performance web and desktop applications, developing APIs with JWT authentication, and implementing automated ML pipelines
-📌 **Status:** Open to junior or entry-level Software Engineer / .NET Backend Developer opportunities within Turkey and Saudi Arabia
-📫 **Reach me at:** ahmdaldyny3@gmail.com | ahmed.najib.alzomor@gmail.com
-🌐 **Portfolio:** [ahmednajibalzomor.com](https://ahmednajibalzomor.com)
+🎓 **Education:** B.Sc. in Computer Engineering, Karabük University (Graduated: June 2026 | GPA: 3.66/4.00) <br>
+💻 **Focus:** C#, .NET, ASP.NET Core Web APIs, SQL Server, EF Core, RESTful APIs, and Clean/n-Tier Architecture<br>
+🌱 **Currently Learning:** Mastering full-stack development by combining ASP.NET Core with React/Next.js and building robust API security protocols<br>
+🔭 **Working On:** Expanding my expertise in web applications, real-time communications with SignalR, and CQRS patterns with MediatR, alongside migrating a media platform to a modern .NET Core and React architecture<br>
+🚀 **Experience:** Building high-performance web and desktop applications, developing APIs with JWT authentication, and implementing automated ML pipelines<br>
+📌 **Status:** Open to junior or entry-level Software Engineer / .NET Backend Developer opportunities within Turkey and Saudi Arabia<br>
+📫 **Reach me at:** ahmed.najib.alzomor@gmail.com<br>
+🌐 **Portfolio:** [ahmednajibalzomor.com](https://ahmednajibalzomor.com)<br>
 
 ---
 
