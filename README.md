@@ -1,123 +1,112 @@
-# 💫 About Me
+👋 Hi, I'm Ahmed Najib AL-Zomor
+💫 About Me
+🎓 Education: B.Sc. in Computer Engineering, Karabük University — June 2026 | GPA: 3.66/4.00
+💻 Backend Focus: C#, .NET, ASP.NET Core Web API, SQL Server, EF Core, ADO.NET, and RESTful APIs
+🏗️ Core Concepts: Clean Architecture, n-Tier Architecture, CQRS, OOP, database optimization, and API security
+🤖 Additional Experience: Python, FastAPI, and machine learning through my wildfire-monitoring graduation project
+🌱 Currently Learning: Strengthening my backend engineering skills through hands-on projects and continuous learning
+📌 Looking For: Junior Software Engineer or .NET Backend Developer opportunities in Türkiye and Saudi Arabia
+📫 Email: ahmed.najib.alzomor@gmail.com
+🌐 Portfolio: ahmednajibalzomor.com
+🌐 Connect With Me
+<p align="left">
+  <a href="https://ahmednajibalzomor.com"><img src="https://img.shields.io/badge/Portfolio-%23255E63.svg?logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ahmed-najib"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmed.najib.alzomor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/905357320558"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-🎓 **Education:** B.Sc. in Computer Engineering, Karabük University (Graduated: June 2026 | GPA: 3.66/4.00) <br>
-💻 **Focus:** C#, .NET, ASP.NET Core Web APIs, SQL Server, EF Core, RESTful APIs, and Clean/n-Tier Architecture<br>
-🌱 **Currently Learning:** Mastering full-stack development by combining ASP.NET Core with React/Next.js and building robust API security protocols<br>
-🔭 **Working On:** Expanding my expertise in web applications, real-time communications with SignalR, and CQRS patterns with MediatR, alongside migrating a media platform to a modern .NET Core and React architecture<br>
-🚀 **Experience:** Building high-performance web and desktop applications, developing APIs with JWT authentication, and implementing automated ML pipelines<br>
-📌 **Status:** Open to junior or entry-level Software Engineer / .NET Backend Developer opportunities within Turkey and Saudi Arabia<br>
-📫 **Reach me at:** ahmed.najib.alzomor@gmail.com<br>
-🌐 **Portfolio:** [ahmednajibalzomor.com](https://ahmednajibalzomor.com)<br>
+💻 Tech Stack
+Backend Development
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
----
+Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-## 🌐 Socials
+Architecture, APIs & Security
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2563EB?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/CQRS-7C3AED?style=for-the-badge" alt="CQRS" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23255E63.svg?logo=web&logoColor=white)](https://ahmednajibalzomor.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-najib)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.najib.alzomor@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/905357320558)
+Other Technologies Used in Projects
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+</p>
 
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages & Frameworks
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🗄️ Databases & ORM
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
----
-
-### 🧱 Architecture & Concepts
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-CQRS%20%7C%20MediatR-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blue?style=for-the-badge)
-![n-Tier Architecture](https://img.shields.io/badge/n--Tier%20Architecture-Presentation%20%7C%20BLL%20%7C%20DAL-purple?style=for-the-badge)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-Backend%20Development-green?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-JWT%20%7C%20Auth-yellow?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Collections%20%7C%20Trees%20%7C%20Graphs-orange?style=for-the-badge)
-
----
-
-### 🛠️ Tools & Version Control
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Event Viewer](https://img.shields.io/badge/Event%20Viewer-Application%20Logging-lightgrey?style=for-the-badge)
-
----
-
-# 🧩 Featured Projects
-
-### ⛺ Quran Camp Management System
-*Digitized and streamlined summer Quran camp operations by replacing manual logbooks with a web-based system tracking memorization targets, prayer compliance, schedule discipline, and student behavior.*
-*   **Tech Used:** ASP.NET Core, SQL Server, EF Core, MediatR, SignalR, React, TypeScript
-*   Engineered an ASP.NET Core Web API with Clean Architecture and MediatR (CQRS), providing 20+ REST endpoints, JWT token rotation, rate-limiting security, and SQL Server DbContext pooling.
-*   Developed a React 19 and TypeScript dashboard utilizing SignalR for real-time notifications to parents, which automates leaderboard rankings and camp analytics to reduce administrative work by roughly 85%.
-
----
-
-### 📝 Dynamic Portfolio CMS
-*A bilingual content management system for securely administrating projects, skills, experience, certificates, messages, uploads, and site settings.*
-*   **Tech Used:** ASP.NET Core, SQL Server, ADO.NET, Next.js, TypeScript
-*   Implemented HTTP-only refresh tokens, JWT authentication, BCrypt hashing, audit logs, stored procedures, rate limiting, Swagger, and dynamic project pages.
-*   Decreased portfolio update effort by 80-90% through the enablement of live content updates via an admin dashboard, bypassing hardcoded modifications and redeployments.
-
----
-
-### 🔥 Fire-Watch Monitoring System (Graduation Project)
-*A drone-ready wildfire monitoring system for the Karabük region combining weather-based FWI risk prediction, fire/smoke detection, alert management, and operator dashboard views.*
-*   **Tech Used:** Python, FastAPI, SQLite, Next.js, TypeScript, scikit-learn
-*   Contributed to a FastAPI backend handling 30+ endpoints, scheduled/manual risk checks, Open-Meteo weather data ingestion, YOLOv8 camera/drone detection, and integration with a Next.js TypeScript dashboard.
-*   Helped develop a two-stage machine learning pipeline incorporating 34 engineered features, achieving a 92.9% high-risk classification accuracy and 90% recall.
-
----
-
-### 🏦 Bank Management System — Desktop Application
-A C# Windows Forms banking application built with SQL Server and ADO.NET using a 3-tier architecture.  
-It includes core banking workflows such as customer and account management, deposit, withdraw, transfer operations, password hashing, and Event Viewer logging for monitoring and troubleshooting.
-
-**Tech Used:** C#, .NET, Windows Forms, SQL Server, ADO.NET, 3-Tier Architecture
-
----
-
-### 🚗 DVLD Desktop Application
-A desktop management system for driver and vehicle licensing services, built using C#, Windows Forms, SQL Server, and ADO.NET.  
-The project follows a layered architecture approach with separate Presentation, Business Logic, and Data Access layers, and includes role-based access control and database-driven operations.
-
-**Tech Used:** C#, .NET, Windows Forms, SQL Server, ADO.NET, 3-Tier Architecture
-
----
-
-# 📚 Training & Development
-
-Completed **20+ software development courses** focusing on C++, C#, algorithms, OOP, data structures, databases, T-SQL, ASP.NET Core RESTful APIs, JWT, and Entity Framework Core.  
-Learned essential backend validation techniques, authentication/authorization fundamentals, and secure coding practices. These skills have been reinforced through hands-on projects in clean architecture and backend development.
-
----
-
-# 📊 GitHub Stats
-
+🧩 Featured Projects
+🔥 Fire-Watch Monitoring System — Graduation Project
+A wildfire-monitoring system combining weather-based Fire Weather Index (FWI) risk prediction, fire and smoke detection, alert management, and an operator dashboard.
+Technologies: Python, FastAPI, SQLite, scikit-learn, Next.js, TypeScript, YOLOv8
+- Contributed to a FastAPI backend with 30+ endpoints and weather-data integration using Open-Meteo.
+- Helped develop a machine-learning pipeline using 34 engineered features.
+- Achieved 92.9% high-risk classification accuracy and 90% recall in the reported model evaluation.
+🔗 View Project on GitHub
+⛺ Quran Camp Management System
+A web application designed to digitize Quran camp operations, including student progress, memorization targets, prayer compliance, schedules, and behavior tracking.
+Technologies: ASP.NET Core, SQL Server, EF Core, MediatR, SignalR, React, TypeScript
+- Developed 20+ REST API endpoints using Clean Architecture and CQRS with MediatR.
+- Implemented JWT refresh-token rotation, rate limiting, and EF Core database optimizations.
+- Integrated SignalR for real-time notifications and supported automated rankings and camp analytics.
+- Helped reduce administrative effort by approximately 85%, based on the project estimate.
+🗳️ Student Voting Management System
+An electronic voting platform featuring Arabic right-to-left (RTL) support and separate portals for different user roles.
+Technologies: ASP.NET Core, SQL Server, EF Core, MediatR, React, Next.js
+- Developed a backend with 45+ REST API endpoints using Clean Architecture and CQRS.
+- Implemented JWT refresh-token rotation, kiosk API-key protection, rate limiting, and database-query optimizations.
+- Added transaction and anonymity safeguards to help prevent duplicate voting.
+- Achieved 27 passing concurrency and security tests.
+🏢 Yemera B2B Corporate & Catalog CMS
+A corporate website and catalog management system supporting localized content and structured product information.
+Technologies: ASP.NET Core, SQL Server, EF Core, React, Vite
+- Applied Clean Architecture, repository patterns, and FluentValidation.
+- Optimized relational data access using AsSplitQuery(), AsNoTracking(), and DbContext pooling.
+- Worked with 10+ localized entity tables and project-reported database performance optimizations.
+📝 Dynamic Portfolio CMS
+A bilingual content management system for managing projects, skills, experience, certificates, messages, uploads, and website settings.
+Technologies: ASP.NET Core, SQL Server, ADO.NET, Next.js, TypeScript
+- Implemented JWT authentication, HTTP-only refresh tokens, BCrypt password hashing, audit logs, rate limiting, and stored procedures.
+- Built dynamic content-management workflows to reduce the need for hardcoded updates and redeployment.
+- Estimated portfolio update-effort reduction: 80–90%.
+🖥️ Desktop Applications
+Driver and Vehicle Licensing System (DVLD) and Bank Management System
+Technologies: C#, .NET, Windows Forms, SQL Server, ADO.NET
+- Built layered desktop applications using Presentation, Business Logic, and Data Access layers.
+- Implemented database-driven workflows, including licensing operations and banking transactions.
+- Applied object-oriented programming, stored procedures, password hashing, and application logging.
+📚 Training & Experience
+Backend Developer Trainee — Ultimate Solutions, Istanbul
+February 2026 – May 2026
+- Completed practical training in C#, .NET, SQL Server, Windows Forms, and ADO.NET.
+- Developed layered Driver and Vehicle Licensing and Bank Management applications.
+- Worked on a secure content management system with authentication and administrative functionality.
+Self-Directed Software Development Training
+February 2024 – Present
+- Completed 20+ courses covering C++, C#, algorithms, OOP, data structures, databases, T-SQL, ASP.NET Core Web APIs, JWT, and EF Core.
+- Earned the Microsoft Backend Development with .NET Certificate.
+- Reinforced backend-development concepts through hands-on applications and personal projects.
+📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednajib&theme=shadow_blue" alt="GitHub Streak" />
 </p>
